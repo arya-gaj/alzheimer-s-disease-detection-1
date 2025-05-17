@@ -1,1 +1,1 @@
-# alzheimer-s-disease-detection-1
+# Traditional MRI-Based Alzheimer’s Disease Detection Using Custom CNN
